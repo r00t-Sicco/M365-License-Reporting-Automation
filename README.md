@@ -141,6 +141,8 @@ Execution logs are retained separately for troubleshooting and auditing.
 
 ## Configuration
 
+For complete deployment instructions, see **[Deployment Guide](docs/setup.md)**.
+
 Environment-specific settings are located near the beginning of the PowerShell script.
 
 ```powershell
