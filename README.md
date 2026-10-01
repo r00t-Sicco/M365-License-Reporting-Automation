@@ -33,9 +33,15 @@ Designed to run completely unattended on a recurring schedule using certificate-
 
 ## Example Report
 
-The automation generates an executive summary showing the current licensing environment and accounts that may warrant review.
+The automation generates an executive summary showing the current licensing environment, license utilization, and accounts that may warrant review.
 
 ![Microsoft 365 License Report](screenshots/report-overview.png)
+
+### Licensed Account Detail
+
+The report also provides a complete view of licensed accounts, including assigned license, most recent Microsoft 365 activity, and review status.
+
+![Licensed Accounts](screenshots/licensed-accounts.png)
 
 ---
 
